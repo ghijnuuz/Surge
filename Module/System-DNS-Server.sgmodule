@@ -1,0 +1,5 @@
+#!name=System DNS Server
+#!desc=Uses the DNS server addresses from the operating system.
+
+[General]
+dns-server = system
