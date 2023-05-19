@@ -1,0 +1,5 @@
+#!name=MITM TikTok
+#!desc=MITM append TikTok hostname.
+
+[MITM]
+hostname = %APPEND% *.tiktokv.com, *.byteoversea.com, *.tik-tokapi.com
